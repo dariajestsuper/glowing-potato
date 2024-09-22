@@ -1,0 +1,5 @@
+.env
+.env_wordpress
+
+db/
+wordpress/
